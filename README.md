@@ -41,5 +41,5 @@ The dataset includes anonymized student placement records with attributes such a
 
 ## 👤 Author
 
-** Kartikeya Mishra
+### Kartikeya Mishra
 * [LinkedIn](https://www.linkedin.com/in/kartikeya-mishra-549804249/) | [GitHub](https://github.com/mishrakartikeya)
